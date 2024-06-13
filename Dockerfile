@@ -1,2 +1,2 @@
 FROM python:3.9
-CMD ["bash", "start.sh"]
+CMD ["docker", "run admin44449999/mtl"]
